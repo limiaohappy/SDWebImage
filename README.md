@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # LMWebImage
 
 [![CI Status](https://img.shields.io/travis/lm375701847@vip.qq.com/LMWebImage.svg?style=flat)](https://travis-ci.org/lm375701847@vip.qq.com/LMWebImage)
@@ -27,3 +28,6 @@ lm375701847@vip.qq.com, lm5641599@gmail.com
 ## License
 
 LMWebImage is available under the MIT license. See the LICENSE file for more info.
+=======
+# SDWebImage
+>>>>>>> 66e4d7b92cadd223ca05108c4943848c2c9a24af
