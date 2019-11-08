@@ -1,0 +1,25 @@
+PODS:
+  - LMWebImage (0.1.0):
+    - SDWebImage
+  - SDWebImage (5.2.3):
+    - SDWebImage/Core (= 5.2.3)
+  - SDWebImage/Core (5.2.3)
+
+DEPENDENCIES:
+  - LMWebImage (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - SDWebImage
+
+EXTERNAL SOURCES:
+  LMWebImage:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  LMWebImage: 28542d9c54b83edb9d9354581daa24bf19734de5
+  SDWebImage: 46a7f73228f84ce80990c786e4372cf4db5875ce
+
+PODFILE CHECKSUM: cea8bcfeecf90e1f31a4d13b52e12a1cf04ae1f7
+
+COCOAPODS: 1.8.3

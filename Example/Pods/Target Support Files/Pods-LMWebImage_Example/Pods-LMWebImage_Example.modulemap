@@ -1,0 +1,6 @@
+framework module Pods_LMWebImage_Example {
+  umbrella header "Pods-LMWebImage_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

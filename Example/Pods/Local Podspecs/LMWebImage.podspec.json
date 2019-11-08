@@ -1,0 +1,28 @@
+{
+  "name": "LMWebImage",
+  "version": "0.1.0",
+  "summary": "A short description of LMWebImage.简介",
+  "description": "TODO: Add long description of the pod here.  这里是详细的描述",
+  "homepage": "https://github.com/limiaohappy/SDWebImage.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "lm375701847@vip.qq.com": "lm5641599@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/limiaohappy/SDWebImage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LMWebImage/Classes/**/*.h",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "SDWebImage": [
+
+    ]
+  }
+}
